@@ -1,7 +1,14 @@
-# backend-template
+# Heroku Routes:
 
-A starter template for Express projects at Alchemy Code Lab. We'll be using this in the "Backend / API" portion of the program.
+https://handofresources.herokuapp.com/api/v1/foods</br>
 
-## Getting Started
+https://handofresources.herokuapp.com/api/v1/artists</br></br>
 
-Click "Use this template" to create a new repo with your user as the owner. Then clone down the newly created repo and get hacking!
+https://handofresources.herokuapp.com/api/v1/dididoits</br>
+
+https://handofresources.herokuapp.com/api/v1/didyoudoits</br>
+
+https://handofresources.herokuapp.com/api/v1/haveyoudoneits</br>
+
+
+
