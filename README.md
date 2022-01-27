@@ -2,7 +2,7 @@
 
 https://handofresources.herokuapp.com/api/v1/foods</br>
 
-https://handofresources.herokuapp.com/api/v1/artists</br></br>
+https://handofresources.herokuapp.com/api/v1/artists</br>
 
 https://handofresources.herokuapp.com/api/v1/dididoits</br>
 
